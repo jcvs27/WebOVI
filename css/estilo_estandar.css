@@ -32,7 +32,7 @@ header, nav, footer{
 
  #contenedor{
 	margin: 0.5em auto;
-	max-width: 1600px;
+	max-width: 980px;
 	min-height: 200px;
 	padding: 0;
 	background: #FFFFFF;
@@ -42,7 +42,7 @@ header, nav, footer{
 
  #contenedor2{
 	margin: 0.5em auto;
-	max-width: 1600px;
+	max-width: 980px;
 	padding: 0;
 	background: #FFFFFF;
 	text-align: justify;
@@ -53,7 +53,7 @@ header, nav, footer{
 
 #article{
 	margin: 0.5em auto;
-	max-width: 1600px;
+	max-width: 980px;
 	min-height: 200px;
 	padding: 0;
 	background: #FFFFFF;
