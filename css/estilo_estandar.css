@@ -3,7 +3,7 @@ body{
       
       color: #FFFFFF;
       font-family: verdana;
-      font-size: 2em;
+      font-size: 1em;
 }
 
 h1{
@@ -25,7 +25,7 @@ header, nav, footer{
 	background: #005883;
 	border-radius: 0.5ex;
     margin:0.5em auto;
-    max-width: 1600px;
+    max-width: 980px;
     padding: 0.25em;
 
 }
@@ -64,17 +64,17 @@ header, nav, footer{
 #img2{
 	display: inline-block;
 	margin: -0.10em auto;
-	margin-top: -150px;
+	margin-top: -70px;
     overflow: hidden;
     float: left;
 }
 
 #img1{
-	margin-top: -250px;
+	margin-top: -210px;
 	float: right;
 }
 nav{
-	height: 80px;
+	height: 60px;
 
 }
 
