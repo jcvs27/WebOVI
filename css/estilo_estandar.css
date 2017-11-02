@@ -52,6 +52,13 @@ header, nav, footer{
 	margin-top: 20px
 } 
 
+#contenedor3{
+	margin: 0.5em auto;
+	max-width: 980px;
+	padding: 0;
+	border-top: 5px solid  #F47920;
+	
+}
 #article{
 	margin: 0.5em auto;
 	max-width: 980px;
@@ -146,4 +153,11 @@ ul, ol {
 iframe{
 	height: 500px;
 	width: 700px;
+}
+
+object{
+	margin-left: 600px;
+	width:  120px;
+	height:160px;
+
 }
