@@ -79,6 +79,14 @@ header, nav, footer{
 	margin-top: 100px;
 	float: right;
 }
+#img4{
+
+	padding: 0 0 5px -40px;
+	margin-left: 600px;
+	margin-top: -180px;
+	height: 300px;
+	width: 300px;
+}
 nav{
 	height: 60px;
 
