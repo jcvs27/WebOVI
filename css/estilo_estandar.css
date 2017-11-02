@@ -127,3 +127,14 @@ ul, ol {
 	margin-bottom: 100px;
 
 }
+
+#footer2{
+	text-align: center;
+	margin-bottom: 400px;
+
+}
+
+iframe{
+	height: 500px;
+	width: 700px;
+}
