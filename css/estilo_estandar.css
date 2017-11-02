@@ -38,6 +38,7 @@ header, nav, footer{
 	background: #FFFFFF;
 	text-align: justify;
 	width: 65%;
+	border-top: 5px solid  #F47920;
 } 
 
  #contenedor2{
