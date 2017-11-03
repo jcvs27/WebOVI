@@ -25,14 +25,14 @@ header, nav, footer{
 	background: #005883;
 	border-radius: 0.5ex;
     margin:0.5em auto;
-    max-width: 980px;
+    max-width: 1118px;
     padding: 0.25em;
 
 }
 
  #contenedor{
 	margin: 0.5em auto;
-	max-width: 980px;
+	max-width: 1118px;
 	min-height: 200px;
 	padding: 0;
 	background: #FFFFFF;
@@ -43,7 +43,7 @@ header, nav, footer{
 
  #contenedor2{
 	margin: 0.5em auto;
-	max-width: 980px;
+	max-width: 1118px;
 	padding: 0;
 	background: #FFFFFF;
 	text-align: justify;
@@ -54,14 +54,14 @@ header, nav, footer{
 
 #contenedor3{
 	margin: 0.5em auto;
-	max-width: 980px;
+	max-width: 1118px;
 	padding: 0;
 	border-top: 5px solid  #F47920;
 	
 }
 #article{
 	margin: 0.5em auto;
-	max-width: 980px;
+	max-width: 1118px;
 	min-height: 200px;
 	padding: 0;
 	background: #FFFFFF;
@@ -79,6 +79,7 @@ header, nav, footer{
 
 #img1{
 	margin-top: -210px;
+	padding: 0 400px 0 0;
 	float: right;
 }
 
@@ -136,17 +137,20 @@ ul, ol {
 }
 #footer{
 	text-align: center;
+	max-width: 1118px;
 }
 
 #footer1{
 	text-align: center;
 	margin-bottom: 100px;
+	max-width: 1118px;
 
 }
 
 #footer2{
 	text-align: center;
 	margin-bottom: 400px;
+	max-width: 1118px;
 
 }
 
@@ -160,4 +164,16 @@ object{
 	width:  120px;
 	height:160px;
 
+}
+aside{
+	float: right;
+	width: 400px;
+	height: 500px;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 10px;
+	margin-top: -550px;
+	margin-right: 200px;
 }
