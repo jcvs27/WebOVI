@@ -37,7 +37,7 @@ header, nav, footer{
 	padding: 0;
 	background: #FFFFFF;
 	text-align: justify;
-	width: 65%;
+	width: 80%;
 	border-top: 5px solid  #F47920;
 } 
 
@@ -47,7 +47,7 @@ header, nav, footer{
 	padding: 0;
 	background: #FFFFFF;
 	text-align: justify;
-	width: 65%;
+	width: 80%;
 	border-top: 5px solid  #F47920;
 	margin-top: 20px
 } 
@@ -57,6 +57,7 @@ header, nav, footer{
 	max-width: 1118px;
 	padding: 0;
 	border-top: 5px solid  #F47920;
+	width: 80%;
 	
 }
 #article{
@@ -166,14 +167,14 @@ object{
 
 }
 aside{
-	float: right;
+	float: left;
 	width: 400px;
 	height: 500px;
 	border-style: solid;
 	border-color: #004669;
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
-	margin-left: 10px;
-	margin-top: -550px;
-	margin-right: 200px;
+	margin-top: -580px;
+	margin-left: 800px;
+	
 }
