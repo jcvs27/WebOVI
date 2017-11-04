@@ -168,13 +168,15 @@ object{
 }
 aside{
 	float: left;
-	width: 400px;
-	height: 500px;
+	width: 350px;
+	height: 499px;
 	border-style: solid;
 	border-color: #004669;
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
-	margin-top: -580px;
-	margin-left: 900px;
+	margin-top: -31%;
+	margin-left: 60%;
+	position: fixed;
+	overflow: hidden;;
 	
 }
