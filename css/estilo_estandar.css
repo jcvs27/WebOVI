@@ -201,10 +201,10 @@ position: absolute;
 
 
 }
-#footer3{
+#footer{
 position: absolute;
 	left: 270px;
-	top: 2800px;
+	top: 1450px;
 	width: 931px;
 	height: 65px;
 	text-align: center;
@@ -213,16 +213,6 @@ position: absolute;
 	max-width: 1118px;
 
 
-}
-#footer4 {
-	position: absolute;
-	left: 270px;
-	top: 1150px;
-	width: 931px;
-	height: 65px;
-	text-align: center;
-	background: #005883;
-	border-radius: 0.5ex;
 }
 
 iframe{
