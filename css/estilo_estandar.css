@@ -212,10 +212,12 @@ object{
 	height:160px;
 
 }
+
 .aside {
 	position: absolute;
 	left: 764px;
 	top: 179px;
 	width: 426px;
 	height: 637px;
+
 }
