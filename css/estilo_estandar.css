@@ -105,16 +105,7 @@ p{
 	height: 39px;
 }
 
-#img1{
-	margin-top: -210px;
-	padding: 0 400px 0 0;
-	float: right;
-}
 
-#img3{
-	margin-top: 100px;
-	float: right;
-}
 #img4{
 
 	padding: 0 0 5px -40px;
@@ -186,10 +177,10 @@ ul, ol {
 	max-width: 1118px;
 
 
-}
+} 
 
 #footer2{
-position: absolute;
+    position: absolute;
 	left: 270px;
 	top: 1450px;
 	width: 931px;
@@ -201,10 +192,23 @@ position: absolute;
 
 
 }
-#footer{
-position: absolute;
+#footer3{
+    position: absolute;
 	left: 270px;
-	top: 1450px;
+	top: 2800px;
+	width: 931px;
+	height: 65px;
+	text-align: center;
+	background: #005883;
+	border-radius: 0.5ex;
+	max-width: 1118px;
+
+
+}
+#footer4{
+    position: absolute;
+	left: 270px;
+	top: 1150px;
 	width: 931px;
 	height: 65px;
 	text-align: center;
